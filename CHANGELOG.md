@@ -5,6 +5,10 @@ Format based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), versio
 
 ## [Unreleased]
 
+### Changed
+
+- Node 18 is no longer supported (EOL). Minimum is now Node 20.
+
 ## [0.1.0] - 2026-11-12
 
 ### Added
