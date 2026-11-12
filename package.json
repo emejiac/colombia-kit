@@ -1,6 +1,6 @@
 {
   "name": "colombia-kit",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Festivos, días hábiles, NIT, COP formatting and DANE codes for Colombia. Zero dependencies.",
   "keywords": [
     "colombia",

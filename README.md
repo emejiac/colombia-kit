@@ -11,12 +11,9 @@ Festivos, días hábiles, NIT, pesos and DANE codes for Colombia. TypeScript, ze
 npm install colombia-kit
 ```
 
-<!--
-  TODO: cuenta aquí tu historia en 2-3 líneas, con tus palabras.
-  Algo como: en qué proyecto te tocó copiar por enésima vez la función de festivos,
-  o cuál fue el bug que te hizo decir "ya, voy a hacer esto bien una sola vez".
-  Esa parte es la que hace que el repo se sienta tuyo.
--->
+Requires Node 20 or later. Works in browsers too (no dependencies, no Node APIs).
+
+I'm Esneider, a developer from [Medellín] 🇨🇴. Every time I built something for a Colombian client — [invoices, delivery dates, payroll] — I ended up copy-pasting the same festivos function from an old project. Then one day [a delivery date came out wrong because my copy didn't move San Pedro to Monday], and that was it, parce: I decided to write it once, properly, with tests. This is that.
 
 ## Why
 
