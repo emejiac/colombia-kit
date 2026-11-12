@@ -2,8 +2,8 @@
 
 [![npm](https://img.shields.io/npm/v/colombia-kit)](https://www.npmjs.com/package/colombia-kit)
 [![CI](https://github.com/emejiac/colombia-kit/actions/workflows/ci.yml/badge.svg)](https://github.com/emejiac/colombia-kit/actions/workflows/ci.yml)
-[![bundle size](https://img.shields.io/bundlephobia/minzip/colombia-kit)](https://bundlephobia.com/package/colombia-kit)
-[![license](https://img.shields.io/npm/l/colombia-kit)](./LICENSE)
+[![bundle size](https://img.shields.io/bundlejs/size/colombia-kit)](https://bundlejs.com/?q=colombia-kit)
+[![license](https://img.shields.io/github/license/emejiac/colombia-kit)](./LICENSE)
 
 Festivos, días hábiles, NIT, pesos and DANE codes for Colombia. TypeScript, zero dependencies, ~4 KB gzipped.
 
@@ -11,9 +11,11 @@ Festivos, días hábiles, NIT, pesos and DANE codes for Colombia. TypeScript, ze
 npm install colombia-kit
 ```
 
+> **En español:** librería para calcular los **festivos de Colombia** (Ley Emiliani, Semana Santa), sumar **días hábiles**, calcular el **dígito de verificación del NIT** (DIAN), formatear **pesos colombianos** y cédulas, y consultar los **departamentos con código DANE**. Funciona en Node y en el navegador, sin dependencias.
+
 Requires Node 20 or later. Works in browsers too (no dependencies, no Node APIs).
 
-I'm Esneider, a developer from [Medellín] 🇨🇴. Every time I built something for a Colombian client — [invoices, delivery dates, payroll] — I ended up copy-pasting the same festivos function from an old project. Then one day [a delivery date came out wrong because my copy didn't move San Pedro to Monday], and that was it, parce: I decided to write it once, properly, with tests. This is that.
+I'm Esneider, a developer from Medellín 🇨🇴. I kept copy-pasting the same festivos function between client projects, so I decided to write it once, properly, with tests. This is that.
 
 ## Why
 
