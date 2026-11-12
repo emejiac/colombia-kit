@@ -1,7 +1,7 @@
 # colombia-kit 🇨🇴
 
 [![npm](https://img.shields.io/npm/v/colombia-kit)](https://www.npmjs.com/package/colombia-kit)
-[![CI](https://github.com/emejiaciro/colombia-kit/actions/workflows/ci.yml/badge.svg)](https://github.com/emejiaciro/colombia-kit/actions/workflows/ci.yml)
+[![CI](https://github.com/emejiac/colombia-kit/actions/workflows/ci.yml/badge.svg)](https://github.com/emejiac/colombia-kit/actions/workflows/ci.yml)
 [![bundle size](https://img.shields.io/bundlephobia/minzip/colombia-kit)](https://bundlephobia.com/package/colombia-kit)
 [![license](https://img.shields.io/npm/l/colombia-kit)](./LICENSE)
 
@@ -97,4 +97,4 @@ PRs welcome, parce. Read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 ## License
 
-MIT © [Esneider Mejía Ciro](https://github.com/emejiaciro)
+MIT © [Esneider Mejía Ciro](https://github.com/emejiac)
