@@ -14,15 +14,15 @@
     "dane",
     "divipola"
   ],
-  "author": "Esneider Mejía Ciro (https://github.com/emejiaciro)",
+  "author": "Esneider Mejía Ciro (https://github.com/emejiac)",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/emejiaciro/colombia-kit.git"
+    "url": "git+https://github.com/emejiac/colombia-kit.git"
   },
-  "homepage": "https://github.com/emejiaciro/colombia-kit#readme",
+  "homepage": "https://github.com/emejiac/colombia-kit#readme",
   "bugs": {
-    "url": "https://github.com/emejiaciro/colombia-kit/issues"
+    "url": "https://github.com/emejiac/colombia-kit/issues"
   },
   "type": "module",
   "main": "./dist/index.cjs",
