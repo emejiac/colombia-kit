@@ -1,7 +1,7 @@
 {
   "name": "colombia-kit",
-  "version": "0.2.0",
-  "description": "Festivos, días hábiles, NIT, COP formatting and DANE codes for Colombia. Zero dependencies.",
+  "version": "0.2.1",
+  "description": "Festivos de Colombia, días hábiles, NIT (DIAN), pesos COP y códigos DANE. Colombian holidays, business days, NIT check digit, COP formatting. Zero dependencies.",
   "keywords": [
     "colombia",
     "festivos",
@@ -12,7 +12,18 @@
     "dian",
     "cop",
     "dane",
-    "divipola"
+    "divipola",
+    "festivos-colombia",
+    "dias-festivos",
+    "feriados",
+    "ley-emiliani",
+    "digito-verificacion",
+    "nit-colombia",
+    "pesos-colombianos",
+    "cedula",
+    "departamentos",
+    "colombian-holidays",
+    "typescript"
   ],
   "author": "Esneider Mejía Ciro (https://github.com/emejiac)",
   "license": "MIT",
